@@ -1,6 +1,10 @@
 # Credit Risk Classification
 Module 20 Challenge UCI Data Analyst Bootcamp 2024
 
+
+![Consumer-credit-risk](https://github.com/Adykey79/credit-risk-classification/assets/149746353/2cc93fa0-9b41-4a3f-a760-7c661210d501)
+
+
 ## Credit Risk Analysis Report: 
 This analysis aims to provide a model that will identify customers with good creditworthiness. Creditors need to identify who has good and bad credit to make just decisions on any transactions they may want to do. The data set provided allows us to create a logistic regression model, categorizing loan risk as binary (0 = healthy, 1 = not healthy) and the rest of the columns as features (income, loan size, interest rate, etc.)
 
@@ -10,15 +14,7 @@ Logistic regression performs well when our target, or desired outcome, is binary
 # Classification Report
 
 ## Accuracy: 
-0.99 | This model is highly accurate, meaning this model has high overall correct predictions
-
-## Precision: 
-1.00 for healthy | 0.84 for unhealthy | Measures the accuracy of the positive predictions made by the model. A higher precision means fewer false positives. The model performs well for both outcomes.
-
-## Recall: 
-0.99 for healthy | 0.94 for unhealthy | Measures the model's ability to find all positive instances. A higher recall indicates means false negatives. The model again performs well for both outcomes.
-
-F1-Score 1.00 for healthy | 0.89 for unhealthy | A measure used to evaluate the performance of binary classification models, especially when the class distribution is uneven. It combines the model's precision and recall into a single metric by taking their harmonic mean. Our model performs well in this aspect as well.
+0.99 | This model is highly accurate, meaning this model has high overall correct predictions.
 
 # Summary
 
