@@ -2,7 +2,7 @@
 Module 20 Challenge UCI Data Analyst Bootcamp 2024
 
 
-![Consumer-credit-risk](https://github.com/Adykey79/credit-risk-classification/assets/149746353/2cc93fa0-9b41-4a3f-a760-7c661210d501)
+![149666189-fbae54b6-b123-4905-8348-e59ec94cdb1c](https://github.com/Adykey79/credit-risk-classification/assets/149746353/9191d34f-ec9a-47d5-8b90-eff0d8b7f0f9)
 
 
 ## Credit Risk Analysis Report: 
